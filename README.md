@@ -1,0 +1,1 @@
+Simple mortgage payment calculator adjusted to Polish market rules.
